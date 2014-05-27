@@ -7,9 +7,8 @@ Gem::Specification.new do |spec|
   spec.version       = "1.0.0"
   spec.authors       = ["Adam Hunter"]
   spec.email         = ["adamhunter@me.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = %q[Provide a base Rails application for usage in testing rubygems]
+  spec.homepage      = "https://github.com/adamhunter/dummy-application"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
