@@ -29,7 +29,7 @@ code for your specs place them in 'spec/dummy/app'.
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/dummy-application/fork )
+1. Fork it ( https://github.com/adamhunter/dummy-application/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
