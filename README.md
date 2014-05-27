@@ -15,6 +15,11 @@ Add this line to your spec helper:
 require 'dummy/application'
 ```
 
+You can also optionally add this to your Rakefile to get all available Rails tasks
+```ruby
+require 'dummy/application/tasks'
+```
+
 ## Usage
 
 Dummy Application provides all of the bootstrap code to have a rails
