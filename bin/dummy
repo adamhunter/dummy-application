@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+APP_PATH = 'dummy/application'
+require 'rails/all'
+require 'dummy/application'
+require 'rails/commands'
+
