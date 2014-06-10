@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name          = "dummy-application"
-  spec.version       = "1.1.1"
+  spec.version       = "1.1.2"
   spec.authors       = ["Adam Hunter", "Rebecca Hunter"]
   spec.email         = ["adamhunter@me.com", "hrmrebecca@gmail.com"]
   spec.summary       = %q[Provide a base Rails application for usage in testing rubygems]
